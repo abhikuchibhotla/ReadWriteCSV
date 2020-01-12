@@ -1,11 +1,11 @@
-contents of my csv file are
+#contents of my csv file are test.csv in C:\\GoogleCodeIn directory
  
-name,age,class
-ab11,11,5A
-ab22,12,6C
-ab44,14,8T
-ab23,14,8T
-ab25,15,9D
+#name,age,class
+#ab11,11,5A
+#ab22,12,6C
+#ab44,14,8T
+#ab23,14,8T
+#ab25,15,9D
 
 #Setting my working directory
 setwd("C:\\GoogleCodeIn")
